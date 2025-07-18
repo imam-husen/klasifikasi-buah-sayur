@@ -1,4 +1,4 @@
-# 🍎🥬 Aplikasi Klasifikasi Buah & Sayur dengan CNN dan Streamlit
+# 🍎🥬 Aplikasi Klasifikasi Buah & Sayur dengan CNN 
 
 Proyek ini adalah aplikasi klasifikasi gambar buah dan sayur berbasis web menggunakan **Convolutional Neural Network (CNN)**
 
